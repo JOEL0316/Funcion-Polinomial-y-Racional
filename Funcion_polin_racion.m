@@ -26,7 +26,7 @@ legend("f(x)=0---- x E[2,-2] ");
 
 
 disp('Funcion Polinomial con raize de 0');
-%Dominio de la funcion.........Bien
+%Dominio de la funcion.........
 x = -20:1:20;
 %Regla de correspondencia
 fx = (2*x.^2)+(x.^4)+(x);
